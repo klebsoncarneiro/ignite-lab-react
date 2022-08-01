@@ -28,4 +28,6 @@ Você pode baixar esse repositório para sua máquina através do `git clone`.
 
 ## Utilização Demo
 
--   Acesse o link https://ignite-lab-react-two-black.vercel.app/
+-   Tela de cadastro: https://ignite-lab-react-two-black.vercel.app/
+-   Tela inicial: https://ignite-lab-react-two-black.vercel.app/event
+-   Exemplo de aula: https://ignite-lab-react-two-black.vercel.app/event/lesson/aula-02
